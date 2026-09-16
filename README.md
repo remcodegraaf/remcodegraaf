@@ -1,6 +1,6 @@
 # Remco de Graaf
 
-Managing Director and co-owner of [Reshift Digital](https://www.reshift.nl), the largest tech publisher in the Netherlands. Founder of [Zoom.nl](https://beta.zoom.nl) and [SkyStatus](https://skystatus.pro). I build production platforms with AI agents as the engineering team, and I run the company that is moving every brand to that way of working.
+Managing Director and co-owner of [Reshift Digital](https://www.reshift.nl), the largest tech publisher in the Netherlands. Founder of [Zoom.nl](https://beta.zoom.nl) and [SkyStatus](https://skystatus.pro). I build production platforms with domain experts and AI agents as the engineering team, and I run the company that is moving every brand to that way of working.
 
 ## How I build
 
