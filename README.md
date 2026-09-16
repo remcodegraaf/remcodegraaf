@@ -20,7 +20,7 @@ All of this runs on private repositories. The contribution graph is the public t
 | [SkyStatus](https://skystatus.pro) | Flying Blue analytics platform: XP and status tracking, statement import, mileage run simulator, guides in EN, NL and FR. The lab where the method was developed. About 100 scheduled lanes behind 90+ registered gates, a self-healing loop that opens and merges its own PRs, 10,000+ tests. | React, TypeScript, Supabase, Vercel |
 | [Zoom.nl](https://beta.zoom.nl) | The largest photo community in the Netherlands, 2.5M+ photos, founded by me in 2004. Rebuilt in 2026 from a legacy monorepo into an ad-free platform built to be found by search engines and LLMs alike. Live on beta.zoom.nl, taking over zoom.nl in September 2026. | Next.js 16, React 19, Tailwind v4 |
 | [ID.nl](https://id.nl) | Reshift's tech and lifestyle brand. New platform on DatoCMS with the same SEO and structured data foundation as Zoom.nl. | Next.js, DatoCMS |
-| Zoom Academy and Tech Academy | E-learning ventures I founded, together more than 110,000 paying students. | |
+| Zoom Academy and Tech Academy | E-learning ventures I founded, together 117,000+ students (Zoom Academy 77,000+, Tech Academy 40,000+). | |
 
 ## Writing
 
