@@ -49,4 +49,4 @@ Agents still produce shallow visual design without a tight feedback loop, so des
 
 [remcodegraaf.com](https://remcodegraaf.com) · [LinkedIn](https://www.linkedin.com/in/remcodegraaf/) · [Frankwatching](https://www.frankwatching.com/archive/author/remco-de-graaf/) · Haarlem, the Netherlands
 
-In San Francisco for the AI Engineer Code Summit, 10 to 12 November 2026. Happy to compare notes on guards, review loops and agentic engineering inside a publisher.
+Always happy to compare notes on guards, review loops and agentic engineering inside a company that was never a software company.
