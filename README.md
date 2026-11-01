@@ -38,15 +38,15 @@ Agents still produce shallow visual design without a tight feedback loop, so des
 
 ## Background
 
-- **2026 to now.** [Managing Director and co-owner](https://www.reshift.nl/en/about-reshift/management/), Reshift Digital, with Kevin van Oosteren. Innovation, AI, content and community.
+- **2026 to now.** [Managing Director and co-owner](https://www.reshift.nl/en/about-reshift/management/), Reshift Digital, with Kevin van Oosteren. Content, community, innovation and AI.
 - **2025 to now.** Founder, SkyStatus.
 - **2015 to 2026.** Director of Content, Reshift Digital. Launched ID.nl, Zoom Academy and Tech Academy.
-- **2010 to 2014.** Managing Director, publisher and editor-in-chief of Focus magazine, which I took from heavy losses to profit in two years. Editor-in-chief of Discovery Magazine NL from 2012.
-- **1999 to 2010.** Editor-in-chief, IDG Netherlands (Computer!Totaal, Tips & Trucs, iPhone Magazine). Started Zoom Magazine in 2003, relaunched as Zoom.nl at the end of 2004.
+- **2010 to 2014.** Shareholder in Focus Media Groep, publisher and editor-in-chief of Focus magazine. Editor-in-chief of Discovery Magazine NL from 2012.
+- **1999 to 2010.** Editor-in-chief, IDG Netherlands (Computer!Totaal, Tips & Trucs, iPhone Magazine). Wrote the plan for Zoom Magazine in 2003. Zoom.nl went online at the end of 2004.
 - **Founder** of Zoom Academy (77,000+ students) and Tech Academy (40,000+ students).
 
 ## Elsewhere
 
-[remcodegraaf.com](https://remcodegraaf.com) · [LinkedIn](https://www.linkedin.com/in/remcodegraaf/) · [Frankwatching](https://www.frankwatching.com/archive/author/remco-de-graaf/) · Haarlem, the Netherlands
+[remcodegraaf.com](https://remcodegraaf.com) · [LinkedIn](https://www.linkedin.com/in/remcodegraaf/) · [Frankwatching](https://www.frankwatching.com/archive/author/remco-de-graaf/)
 
 Always happy to compare notes on guards, review loops and agentic engineering inside a company that was never a software company.
