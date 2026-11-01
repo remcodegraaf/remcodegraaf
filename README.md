@@ -1,15 +1,15 @@
 # Remco de Graaf
 
-Managing Director and co-owner of [Reshift Digital](https://www.reshift.nl/), the largest tech publisher in the Netherlands. Founder of [Zoom.nl](https://zoom.nl) and [SkyStatus](https://skystatus.pro).
+Managing Director and co-owner of [Reshift Digital](https://www.reshift.nl/), the largest tech-focused media company in the Netherlands. Founder of [Zoom.nl](https://zoom.nl) and [SkyStatus](https://skystatus.pro).
 
-I am not a programmer. I trained as a journalist and spent 25 years building media businesses. Since 2025 I build production software with AI agents as the engineering team: SkyStatus first, then the 2026 rebuild of Zoom.nl. At Reshift the same way of building now moves to every brand.
+I am not a programmer. I trained as a journalist and spent 25 years building media businesses. Since 2025 I have been building production software with AI agents as the engineering team: SkyStatus first, then the 2026 rebuild of Zoom.nl. At Reshift we are now bringing the same way of building to every brand. I do this as a managing director, not just because I enjoy it. The rules of search, content and media are being rewritten, and I want my view of them to come from experience.
 
 **The agent thinks, the system enforces.** An agent is a strong engineer that forgets, guesses and agrees too easily. So the rules are code in the path of the work, not documents beside it. The full method: [remcodegraaf.com/method](https://remcodegraaf.com/method).
 
 ## How I build
 
-- **Guards in the path.** Hooks refuse a commit that holds a secret, a push to production that carries someone else's commit, a destructive database statement. Every guard fails closed and says why. Nobody routes around one, the owner included. A wrong guard gets changed in the open, with a test.
-- **Two labs.** Claude Code builds, OpenAI Codex reviews as an independent second lab. Every finding is a hypothesis until it is checked against file and line. In one round Codex cited the right line eight times out of eight, and two of its three proposed fixes would have added a bug. So the fix gets checked on its own.
+- **Guards in the path.** Hooks refuse a commit that holds a secret, a push to production that carries someone else's commit, a destructive database statement. Every guard fails closed and says why. The agent never routes around a guard. When one stops it, the agent stops and explains why. Where an override exists, it is explicit and it is a person's call, never the agent's. A wrong guard gets changed in the open, with a test.
+- **Two labs.** Claude Code and OpenAI Codex come from different labs. In most of my projects Claude Code builds and Codex reviews, as an independent second lab. In SkyStatus they are peers: both build, with equal authority. Every finding is a hypothesis until it is checked against file and line. In one round Codex cited the right line eight times out of eight, and two of its three proposed fixes would have added a bug. So the fix gets checked on its own.
 - **Red first.** A guard only counts once you have seen it block the thing it is meant to block. Every fix starts with a failing test.
 - **Count with tools.** Three model passes planned the same change and missed the same five display components. A grep found them in ten seconds.
 - **Measure before you reason.** A finding on two cases is a hypothesis. Observation first, cause second, and the cause stays labelled as a guess until it is proven.
@@ -20,7 +20,7 @@ I am not a programmer. I trained as a journalist and spent 25 years building med
 
 | Project | What it is | Stack |
 |---|---|---|
-| [SkyStatus](https://skystatus.pro) | Flying Blue analytics: XP and status tracking, statement import, a mileage run simulator, guides in English, Dutch, French and German. The lab where the method was developed. About 80 registered gates and 20,000+ tests. | React, TypeScript, Supabase, Vercel |
+| [SkyStatus](https://skystatus.pro) | Flying Blue analytics: XP and status tracking, statement import, a mileage run simulator, guides in English, Dutch, French and German. The lab where the method was developed. 81 registered gates and 20,000+ tests. | React, TypeScript, Supabase, Vercel |
 | [Zoom.nl](https://zoom.nl) | The largest photo community in the Netherlands, 2.5M+ photos and 145,000+ members. Rebuilt in 2026 from a legacy monorepo into an ad-free platform built to be found by search engines and LLMs. Live since 22 September 2026. Builders on the team ship through pull requests, under the same guards as I do. | Next.js 16, React 19, Tailwind v4, Supabase, DatoCMS |
 | [ID.nl](https://id.nl) | Reshift's tech and lifestyle brand. I wrote the plan and led the launch in 2022. Now on the same SEO and structured data foundation as Zoom.nl. | Next.js, DatoCMS |
 | [Reshift Digital](https://www.reshift.nl/) | The publisher: Kieskeurig.nl, ID.nl, Review.nl, Zoom.nl, Zoom Academy, Computer Idee and Computer!Totaal. Every brand and every workflow is moving to this way of building. | |
