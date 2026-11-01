@@ -42,7 +42,7 @@ Agents still produce shallow visual design without a tight feedback loop, so des
 - **2025 to now.** Founder, SkyStatus.
 - **2015 to 2026.** Director of Content, Reshift Digital. Launched ID.nl, Zoom Academy and Tech Academy.
 - **2010 to 2014.** Shareholder in Focus Media Groep, publisher and editor-in-chief of Focus magazine. Editor-in-chief of Discovery Magazine NL from 2012.
-- **1999 to 2010.** Editor-in-chief, IDG Netherlands (Computer!Totaal, Tips & Trucs, iPhone Magazine). Wrote the plan for Zoom Magazine in 2003. Zoom.nl went online at the end of 2004.
+- **1999 to 2010.** Editorial management, IDG Netherlands (Computer!Totaal, Tips & Trucs, iPhone Magazine), editor-in-chief in the last years. Wrote the plan for Zoom Magazine in 2003. Zoom.nl went online at the end of 2004.
 - **Founder** of Zoom Academy (77,000+ students) and Tech Academy (40,000+ students).
 
 ## Elsewhere
