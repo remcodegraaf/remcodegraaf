@@ -38,7 +38,7 @@ Agents still produce shallow visual design without a tight feedback loop, so des
 
 ## Background
 
-- **2026 to now.** [Managing Director and co-owner](https://www.reshift.nl/en/about-reshift/management/), Reshift Digital, with Kevin van Oosteren. Content, community, innovation and AI.
+- **2026 to now.** [Managing Director and co-owner](https://www.reshift.nl/en/about-reshift/management/), Reshift Digital, with Kevin van Oosteren. Innovation, AI, content and community.
 - **2025 to now.** Founder, SkyStatus.
 - **2015 to 2026.** Director of Content, Reshift Digital. Launched ID.nl, Zoom Academy and Tech Academy.
 - **2010 to 2014.** Shareholder in Focus Media Groep, publisher and editor-in-chief of Focus magazine. Editor-in-chief of Discovery Magazine NL from 2012.
